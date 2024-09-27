@@ -1,0 +1,4 @@
+INFO:root:Starting experience: fish_trajectories for 10 seconds
+INFO:root:Experience completed. Preparing to save results.
+DEBUG:root:Experience type: fish_trajectories
+INFO:root:Results directory created/confirmed: ./results/
